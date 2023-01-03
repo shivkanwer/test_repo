@@ -15,6 +15,7 @@ git init # Initialize a git repository
 ```bash
 git add [file] # Add changes to the staging area for the next commit
 git add * [git add .] # Stage all the changes
+git add -p index.html # -p stands for patch level - This allows us to partially select the changes from a file that we want to stage
 ```
 
 ```bash
