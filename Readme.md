@@ -37,4 +37,5 @@ git merge [source branch name] # Merge another branch with the current branch
 
 ```bash
 git remote add [variable name] [Remote Server Link] # Connect your local repository to the remote server
+git push [variable name] master # Push changes in the master branch to remote repository
 ```
