@@ -34,3 +34,7 @@ git checkout -b [branch name] # Create a new branch and also switch to it
 ```bash
 git merge [source branch name] # Merge another branch with the current branch
 ```
+
+```bash
+git remote add [variable name] [Remote Server Link] # Connect your local repository to the remote server
+```
