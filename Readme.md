@@ -3,6 +3,12 @@
 https://www.edureka.co/blog/git-commands-with-example/
 
 ```bash
+# Following commands set the author name and email address respectively to be used with your commits.
+git config –global user.name "[name]"
+git config –global user.email "[email address]"
+```
+
+```bash
 git init # Initialize a git repository
 ```
 
