@@ -30,3 +30,7 @@ git branch [branch name] # Create a new branch
 git checkout [branch name] # Switch from one branch to another
 git checkout -b [branch name] # Create a new branch and also switch to it
 ```
+
+```bash
+git merge [source branch name] # Merge another branch with the current branch
+```
